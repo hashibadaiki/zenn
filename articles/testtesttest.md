@@ -11,7 +11,7 @@ published: false # 公開設定（falseにすると下書き）
 ## 始め方
 
 slugとmdファイルを自動で生成
-`zenn new:article`
+`npx zenn new:article`
 
 localサーバーを立ち上げてhot reload
 `npx zenn preview`
